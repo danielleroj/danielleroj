@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/daniellerojas1](www.linkedin.com/in/daniellerojas1)
 
-- 😄 Pronouns: ...
+- 😄 Pronouns: (she/her)
 
 - ⚡ Fun fact **I want to read 100 books this year!**
 
