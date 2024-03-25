@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danielle Rojas</h1>
-<h3 align="center">A software engineer from NJ</h3>
+<h3 align="center">A software engineer from New Jersey</h3>
 
 - 🔭 I’m currently working on [Cloud Cake Cafe - Spaceman Game](https://github.com/danielleroj/spaceman)
 
@@ -7,9 +7,7 @@
 
 - 📫 How to reach me **daniellelizroj@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/daniellerojas1](www.linkedin.com/in/daniellerojas1)
-
-- 😄 Pronouns: (she/her)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eOtrdpz81OGRMASDSKmodaLm06BgZ0lz/view?usp=sharing)
 
 - ⚡ Fun fact **I want to read 100 books this year!**
 
