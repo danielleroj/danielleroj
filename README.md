@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cloud Cake Cafe - Spaceman Game](https://github.com/danielleroj/spaceman)
 
-- 🌱 I’m currently learning **JavaScript, Node.js, Express**
+- 🌱 I’m currently learning **JavaScript, Node.js, Express.js**
 
 - 📫 How to reach me **daniellelizroj@gmail.com**
 
