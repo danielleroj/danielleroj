@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **daniellelizroj@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eOtrdpz81OGRMASDSKmodaLm06BgZ0lz/view?usp=sharing)
-
 - ⚡ Fun fact **I want to read 100 books this year!**
 
 <h3 align="left">Connect with me:</h3>
