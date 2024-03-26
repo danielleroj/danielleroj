@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danielle Rojas</h1>
 <h3 align="center">A software engineer from New Jersey</h3>
 
-- 🔭 I’m currently working on [Cloud Cake Cafe - Spaceman Game](https://github.com/danielleroj/spaceman)
+- 🔭 I’m currently working on [Pomodoro Timer](https://github.com/danielleroj/pomodoro-timer)
 
 - 🌱 I’m currently learning **JavaScript, Node.js, Express**
 
