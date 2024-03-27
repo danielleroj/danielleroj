@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danielle Rojas</h1>
-<h3 align="center">A software engineer from New Jersey</h3>
+<img width="1834" alt="Make your README" src="https://github.com/danielleroj/danielleroj/assets/147749076/20d39411-2477-4684-9bf6-8d9e1242c8eb" align="center">
 
 - 🔭 I’m currently working on [Pomodoro Timer](https://github.com/danielleroj/pomodoro-timer)
 
