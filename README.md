@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Node.js, Express**
 
-- 📫 How to reach me **daniellelizroj@gmail.com**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/daniellerojas1/)**
 
 - ⚡ Fun fact **I want to read 100 books this year!**
 
