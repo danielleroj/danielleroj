@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Mongoose Flights](https://github.com/danielleroj/mongoose-flights)
 
-- 🌱 I’m currently learning **JavaScript, Node.js, Express**
+- 🌱 I’m currently learning **JavaScript, Node.js, Express, MongoDB, Mongoose**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/daniellerojas1/)**
 
