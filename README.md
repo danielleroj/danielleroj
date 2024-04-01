@@ -1,6 +1,6 @@
 <img width="1834" alt="Make your README" src="https://github.com/danielleroj/danielleroj/assets/147749076/20d39411-2477-4684-9bf6-8d9e1242c8eb" align="center">
 
-- 🔭 I’m currently working on [Cloud Cake Cafe - Spaceman Game](https://github.com/danielleroj/spaceman)
+- 🔭 I’m currently working on [Mongoose Flights](https://github.com/danielleroj/mongoose-flights)
 
 - 🌱 I’m currently learning **JavaScript, Node.js, Express**
 
