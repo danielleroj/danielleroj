@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **[odessi - Travel Itinerary App](https://github.com/danielleroj/odessi)**
 
-- 🌱 I’m currently learning **JavaScript, Node.js, Express, MongoDB, Mongoose**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/daniellerojas1/)**
 
