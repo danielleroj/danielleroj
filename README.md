@@ -1,6 +1,6 @@
 <img width="1834" alt="Make your README" src="https://github.com/danielleroj/danielleroj/assets/147749076/20d39411-2477-4684-9bf6-8d9e1242c8eb" align="center">
 
-- 🔭 I’m currently working on **[finchcollector](https://github.com/danielleroj/finchcollector)**
+- 🔭 I’m currently working on **[GlowGuide](https://github.com/danielleroj/glowguide)**
 
 - 🌱 I’m currently learning **Python**
 
