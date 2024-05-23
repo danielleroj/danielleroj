@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Danielle Rojas</h1>
 <h3 align="center">A software engineer from the NYC Metropolitan Area</h3>
 
-- 🔭 I’m currently working on **[GlowGuide](https://github.com/danielleroj/glowguide)**
+- 🔭 I’m currently working on **[Cozy Clouds](https://github.com/danielleroj/cozy-clouds)**
 
 - 🌱 I’m currently learning **Python**
 
